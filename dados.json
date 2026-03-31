@@ -1,0 +1,18 @@
+{
+    "admin": {
+        "senha": "1234",
+        "saldo": 100.0,
+        "historico": [
+            "Dep\u00f3sito: +R$ 200.00",
+            "Saque: -R$ 100.00"
+        ]
+    },
+    "dulcino": {
+        "senha": "1234",
+        "saldo": 200.0,
+        "historico": [
+            "Dep\u00f3sito: +R$ 300.00",
+            "Saque: -R$ 100.00"
+        ]
+    }
+}
