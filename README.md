@@ -22,8 +22,11 @@ Sistema bancário de linha de comando desenvolvido em Python puro, com funcional
 
 sistema-bancario-python/
 ├── main.py         # Ponto de entrada e menu principal
+
 ├── usuarios.py     # Cadastro e autenticação de usuários
+
 ├── operacoes.py    # Lógica de depósito, saque e histórico
+
 └── dados.json      # Banco de dados local em JSON
 
 ## ▶️ Como executar
