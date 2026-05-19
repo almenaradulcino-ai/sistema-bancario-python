@@ -21,6 +21,7 @@ Sistema bancário de linha de comando desenvolvido em Python puro, com funcional
 ## 📁 Estrutura do projeto
 
 sistema-bancario-python/
+
 ├── main.py         # Ponto de entrada e menu principal
 
 ├── usuarios.py     # Cadastro e autenticação de usuários
